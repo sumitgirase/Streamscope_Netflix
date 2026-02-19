@@ -1,2 +1,3 @@
 # Streamscope_Netflix
-Infosys Springboard Internship Project – Milestone 1
+"Infosys Springboard Internship Project – Milestone 1"
+
