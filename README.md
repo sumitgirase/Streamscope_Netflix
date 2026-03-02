@@ -1,13 +1,7 @@
 # Streamscope_Netflix
-Infosys Springboard Internship Project – Milestone 1
+## Milestone 1 – Data Cleaning
 
-## Milestone 2 Completion
-
-### Work Done:
-- Performed exploratory data analysis on Netflix dataset
-- Analyzed content growth trends
-- Visualized genre and rating distribution
-- Identified country-level contributions
-- Implemented feature engineering (duration category, decade, etc.)
-
-
+- Cleaned Netflix dataset (handled missing values, duplicates)
+- Converted date columns to proper format
+- Saved cleaned dataset as netflix_cleaned.csv
+- Added Jupyter Notebook with cleaning steps
