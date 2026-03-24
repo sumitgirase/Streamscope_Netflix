@@ -6,7 +6,7 @@ print(df.head())
 
 
 #Select useful features like country ,release_year,type
-data = df[['type','release_year','rating','duration','country']]
+data = df[['title','type','release_year','rating','duration','country']]
 data = data.dropna()
 
 #Step 2 — Convert Duration to Numeric
