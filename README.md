@@ -102,6 +102,7 @@ TV-MA is the most common content rating
 USA and India contribute the highest content
 Movies are more common than TV Shows
 
+
 ▶️ How to Run the Project
 1️⃣ Clone Repository
 git clone https://github.com/your-username/Streamscope_Netflix.git
@@ -109,6 +110,8 @@ git clone https://github.com/your-username/Streamscope_Netflix.git
 pip install -r requirements.txt
 3️⃣ Run Streamlit App
 streamlit run app.py
+
+
 🎯 Future Improvements
 AI-based personalized recommendation system
 Real-time Netflix API integration
