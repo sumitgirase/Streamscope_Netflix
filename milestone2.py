@@ -4,7 +4,7 @@ import seaborn as sns
 
 # Load dataset
 df = pd.read_csv("netflix_titles.csv")
-"""
+
 
 # Convert date_added to datetime
 df['date_added'] = pd.to_datetime(df['date_added'], errors='coerce')
@@ -79,7 +79,7 @@ plt.show() """
 
 df['content_length_category'] = df['duration'].apply(categorize_duration)
 
-df['is_original'] = df['title'].str.contains("Netflix", case=False, na=False)"""
+df['is_original'] = df['title'].str.contains("Netflix", case=False, na=False)
 
 
 #STEP 6: Rating Distribution Analysis
